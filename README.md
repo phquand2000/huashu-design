@@ -34,12 +34,14 @@ npx skills add alchaincyf/huashu-design
 ---
 
 <p align="center">
-  <video src="demos/hero-animation-v9.mp4" autoplay muted loop playsinline width="100%">
-    您的浏览器暂不支持内联视频，请<a href="demos/hero-animation-v9.mp4">下载查看 MP4</a>。
-  </video>
+  <img src="demos/hero-animation-v9.gif" alt="huashu-design Hero · 打字 → 选方向 → 画廊展开 → 聚焦 → 品牌显形" width="100%">
 </p>
 
-<p align="center"><sub>▲ Hero 动画 · 10 秒讲完 huashu-design 是什么（若无法自动播放请<a href="demos/hero-animation-v9.mp4">下载</a>）</sub></p>
+<p align="center"><sub>
+  ▲ 25 秒 · Terminal → 4 方向 → Gallery ripple → 4 次 Focus → Brand reveal<br>
+  👉 <a href="https://huasheng.ai/huashu-design/hero/">访问带音效的 HTML 互动版</a> ·
+  <a href="demos/hero-animation-v9.mp4">下载 MP4（含 BGM+SFX · 10MB）</a>
+</sub></p>
 
 <p align="center">
   <img src="demos/w3-fallback-advisor.gif" alt="Fallback 设计顾问 · 从 20 种设计哲学推荐 3 个差异化方向" width="100%">
